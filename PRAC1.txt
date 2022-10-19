@@ -1,8 +1,10 @@
-CD+ :pagina anterior
-MD+ : MAKE DIRECTORY 	
-ECHO : CAMBIAR
-COLOR + ? + ?: CLEAR SCREEN
-DIR: LA TRADUCCION DIRECTORY
-¿COMO SE ABRE LA CONSOLA?
->:PARA QUE ES : UNA DIRECCION
-*QUE SIGNIFICA: AGREGAR
+CD+ :pagina anterior  <- cd es para cambiar de carpeta, Change Directory
+MD+ : MAKE DIRECTORY 	<- qué signfica make directory?
+ECHO : CAMBIAR        <- echo es para que la consola nos regrese un mensaje
+COLOR + ? + ?: CLEAR SCREEN <- clear screen es del comando cls, para qué es color?
+DIR: LA TRADUCCION DIRECTORY <- la traducción esta bien pero para qué nos sirve el comando DIR?
+¿COMO SE ABRE LA CONSOLA? <- windows + r, escribir cmd y dar enter
+>:PARA QUE ES : UNA DIRECCION <- bien
+*QUE SIGNIFICA: AGREGAR <- el asterisco es para especificar que seleccionamos todo
+
+
